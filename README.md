@@ -1,0 +1,2 @@
+# ScoutIt
+Glosario de Métricas
